@@ -1,0 +1,15 @@
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\bin\Debug\net6.0\example001_hellow.exe
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\bin\Debug\net6.0\example001_hellow.deps.json
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\bin\Debug\net6.0\example001_hellow.runtimeconfig.json
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\bin\Debug\net6.0\example001_hellow.dll
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\bin\Debug\net6.0\example001_hellow.pdb
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.csproj.AssemblyReference.cache
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.AssemblyInfoInputs.cache
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.AssemblyInfo.cs
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.dll
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\refint\example001_hellow.dll
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.pdb
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\example001_hellow.genruntimeconfig.cache
+C:\Users\valer\Desktop\Юля\учеба\examples\example001_hellow\obj\Debug\net6.0\ref\example001_hellow.dll
